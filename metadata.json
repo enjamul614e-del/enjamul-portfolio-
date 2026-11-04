@@ -1,0 +1,6 @@
+{
+  "name": "Full Stack Developer Portfolio",
+  "description": "A personal portfolio website showcasing projects, skills, and experience of a full-stack developer.",
+  "requestFramePermissions": [],
+  "prompt": "Create a professional portfolio website for a full-stack developer named John Doe. It should include sections for Home/Hero, About Me, Skills (categorized), Projects (with details and links), Experience (timeline format), and a Contact section. The design should be modern, clean, and responsive, using a dark theme with a vibrant accent color (e.g., teal or bright blue). Ensure smooth scrolling navigation and professional typography."
+}
